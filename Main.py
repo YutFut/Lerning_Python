@@ -7,3 +7,4 @@ def send_echo(message):
 	bot.reply_to(message, message.text)
 
 bot.polling( none_stop = True )
+#conecting zenbook
